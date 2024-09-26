@@ -1,0 +1,3 @@
+[submodule "GOST_kicad_lib"]
+	path = GOST_kicad_lib
+	url = git@github.com:Pgr18/GOST_kicad_lib.git
