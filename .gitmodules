@@ -1,0 +1,3 @@
+[submodule "Main_project"]
+	path = Main_project
+	url = https://github.com/BMSTU-SAPR/Main_project.git
