@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BLB")(type "KiCad")(uri "${KIPRJMOD}/BLB.pretty")(options "")(descr ""))
+  (lib (name "MGTU_Places")(type "KiCad")(uri "${KIPRJMOD}/MGTU_Places.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/MGTU_Places.pretty/Library.pretty")(options "")(descr ""))
+)
