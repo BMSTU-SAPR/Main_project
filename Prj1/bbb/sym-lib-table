@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SAPR_CAP")(type "KiCad")(uri "${KIPRJMOD}/SAPR_CAP.kicad_sym")(options "")(descr ""))
+  (lib (name "SAPR_RES")(type "KiCad")(uri "${KIPRJMOD}/SAPR_RES.kicad_sym")(options "")(descr ""))
+)
