@@ -1,0 +1,3 @@
+[submodule "KiCad_GOST_lib"]
+	path = KiCad_GOST_lib
+	url = https://github.com/BMSTU-SAPR/KiCad_GOST_lib.git
